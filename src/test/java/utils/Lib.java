@@ -13,7 +13,7 @@ import java.util.function.Function;
 public class Lib {
 
     public static String getChromeDriverLocation() {
-        return "give ur path";
+        return "C:\\SreekarJava\\install\\chromedriver_win32 _2\\chromedriver.exe";
     }
 
     public static String getFireFoxDriverLocation() {
